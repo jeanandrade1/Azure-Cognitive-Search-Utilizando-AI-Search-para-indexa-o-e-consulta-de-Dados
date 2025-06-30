@@ -2,11 +2,11 @@
 
 ## Criar recurso Azure AI Search
 
-![Captura de Tela 2025-06-29 às 23.21.07.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.21.07.png)
+![Captura de Tela 2025-06-29 às 23.21.07.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%201.png)
 
 Criar o recurso **Azure AI Search**
 
-![Captura de Tela 2025-06-29 às 23.24.27.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.24.27.png)
+![Captura de Tela 2025-06-29 às 23.24.27.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%202.png)
 
 - Selecionar a assinatura
 - Selecionar o recurso ou crie
@@ -15,13 +15,13 @@ Criar o recurso **Azure AI Search**
 - Selecionar o preço **Gratuito**
 - Clicar em **Examinar + Criar**
 
-![Captura de Tela 2025-06-29 às 23.23.49.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.23.49.png)
+![Captura de Tela 2025-06-29 às 23.23.49.png]([https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%203.png)
 
 ## Criar recurso Azure AI Serice
 
 Ir em A**zure AI Serice**
 
-![Captura de Tela 2025-06-29 às 23.25.43.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.25.43.png)
+![Captura de Tela 2025-06-29 às 23.25.43.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2014png)
 
 - Selecionar a assinatura
 - Selecionar o recurso
@@ -34,7 +34,7 @@ Ir em A**zure AI Serice**
 
 Ir em criar recursos e clicar **criar** em **Conta de armanzenamento**
 
-![Captura de Tela 2025-06-29 às 23.31.48.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.31.48.png)
+![Captura de Tela 2025-06-29 às 23.31.48.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%205.png)
 
 - Selecione a assinatura
 - Selecione o grupo de recursos
@@ -43,19 +43,19 @@ Ir em criar recursos e clicar **criar** em **Conta de armanzenamento**
 - Selecione o desempenho **Standard**
 - Selecione a redundância **LRS**
 
-![Captura de Tela 2025-06-29 às 23.36.07.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.36.07.png)
+![Captura de Tela 2025-06-29 às 23.36.07.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%206.png)
 
 Entrar no recurso
 
-![Captura de Tela 2025-06-29 às 23.39.02.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.39.02.png)
+![Captura de Tela 2025-06-29 às 23.39.02.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%207.png)
 
 Liberar o acesso anônimo em **configuração** e **salvar**
 
-![Captura de Tela 2025-06-29 às 23.39.46.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.39.46.png)
+![Captura de Tela 2025-06-29 às 23.39.46.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%208.png)
 
 Ir em **Armazenamento de dados** e **Contêiners**, **Adicionar Contêiner** e coloque um nome
 
-![Captura de Tela 2025-06-29 às 23.42.41.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.42.41.png)
+![Captura de Tela 2025-06-29 às 23.42.41.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%208.png)
 
 Fazer o uploado dos arquivos em **Carregar**
 
@@ -65,13 +65,13 @@ Pode se usar os exemplos do link https://microsoftlearning.github.io/mslearn-ai-
 
 Clicar em Importar dados
 
-![Captura de Tela 2025-06-29 às 23.50.40.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.50.40.png)
+![Captura de Tela 2025-06-29 às 23.50.40.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%209.png)
 
 - Selecionar **Armazenamento de Blob do Azure**
 - Coloque um nome
 - Clicar em **Escolher uma conexão existente**
 
-![Captura de Tela 2025-06-29 às 23.56.42.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.56.42.png)
+![Captura de Tela 2025-06-29 às 23.56.42.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%210.png)
 
 Selecionar o **contêiner** criado anteriormente
 
