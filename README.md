@@ -65,24 +65,24 @@ Pode se usar os exemplos do link https://microsoftlearning.github.io/mslearn-ai-
 
 Clicar em Importar dados
 
-![Captura de Tela 2025-06-29 às 23.50.40.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2010.png)
+![Captura de Tela 2025-06-29 às 23.50.40.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2011.png)
 
 - Selecionar **Armazenamento de Blob do Azure**
 - Coloque um nome
 - Clicar em **Escolher uma conexão existente**
 
-![Captura de Tela 2025-06-29 às 23.56.42.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%210.png)
+![Captura de Tela 2025-06-29 às 23.56.42.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2012.png)
 
 Selecionar o **contêiner** criado anteriormente
 
-![Captura de Tela 2025-06-29 às 23.56.06.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-29_as_23.56.06.png)
+![Captura de Tela 2025-06-29 às 23.56.06.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2013.png)
 
 Clicar em **Adiconar** habilidade cognitivas
 
 Selecionar o recurso de IA criado anteriormente 
 
-![Captura de Tela 2025-06-30 às 00.02.50.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-30_as_00.02.50.png)
+![Captura de Tela 2025-06-30 às 00.02.50.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2014.png)
 
 Ir em **explorar dados** para testar a pesquisa
 
-![Captura de Tela 2025-06-30 às 00.04.37.png](Pra%CC%81tica%20-%20Azure%20Cognitive%20Search%2022220fca93d180c2b4edf765ea8bffbb/Captura_de_Tela_2025-06-30_as_00.04.37.png)
+![Captura de Tela 2025-06-30 às 00.04.37.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2015.png)
