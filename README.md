@@ -21,7 +21,7 @@ Criar o recurso **Azure AI Search**
 
 Ir em A**zure AI Serice**
 
-![Captura de Tela 2025-06-29 às 23.25.43.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/tree/main/images#:~:text=4%20minutes%20ago-,Captura%204.png,-Add%20files%20via)
+![Captura de Tela 2025-06-29 às 23.25.43.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%204.png)
 
 - Selecionar a assinatura
 - Selecionar o recurso
