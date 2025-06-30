@@ -15,13 +15,13 @@ Criar o recurso **Azure AI Search**
 - Selecionar o preço **Gratuito**
 - Clicar em **Examinar + Criar**
 
-![Captura de Tela 2025-06-29 às 23.23.49.png]([https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%203.png)
+![Captura de Tela 2025-06-29 às 23.23.49.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%203.png)
 
 ## Criar recurso Azure AI Serice
 
 Ir em A**zure AI Serice**
 
-![Captura de Tela 2025-06-29 às 23.25.43.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2014png)
+![Captura de Tela 2025-06-29 às 23.25.43.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%204png)
 
 - Selecionar a assinatura
 - Selecionar o recurso
@@ -55,7 +55,7 @@ Liberar o acesso anônimo em **configuração** e **salvar**
 
 Ir em **Armazenamento de dados** e **Contêiners**, **Adicionar Contêiner** e coloque um nome
 
-![Captura de Tela 2025-06-29 às 23.42.41.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%208.png)
+![Captura de Tela 2025-06-29 às 23.42.41.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%209.png)
 
 Fazer o uploado dos arquivos em **Carregar**
 
@@ -65,7 +65,7 @@ Pode se usar os exemplos do link https://microsoftlearning.github.io/mslearn-ai-
 
 Clicar em Importar dados
 
-![Captura de Tela 2025-06-29 às 23.50.40.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%209.png)
+![Captura de Tela 2025-06-29 às 23.50.40.png](https://github.com/jeanandrade1/Azure-Cognitive-Search-Utilizando-AI-Search-para-indexa-o-e-consulta-de-Dados/blob/main/images/Captura%2010.png)
 
 - Selecionar **Armazenamento de Blob do Azure**
 - Coloque um nome
